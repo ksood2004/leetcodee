@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ksood2004/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
