@@ -1,34 +1,21 @@
-// class Solution {
-// public:
-//     string removeDuplicates(string s) {
-//         string result;
-//         for(int i=0;i<s.length();i++){
-//             if(s[i]==s[i+1]){
-//                 result.erase(s[i],s.length());
-//             }
-//             else{
-//                 result.push_back(s[i]);
-//             }
-//         }
-//         return result;
-        
-//     }
-// };
 class Solution {
 public:
     string removeDuplicates(string s) {
-        string result;  // This will act as a stack
-        
-        for (char ch : s) {
-            if (!result.empty() && result.back() == ch) {
-                // If the last character in 'result' is the same as the current character, remove it
-                result.pop_back();
+        int j = 0;  // `j` keeps track of the end of the valid portion of the string
+
+        for (int i = 0; i < s.length(); i++) {
+            if (j > 0 && s[j - 1] == s[i]) {
+                // If the last valid character (s[j-1]) is the same as the current one, remove it
+                j--;  // Effectively "removes" the previous character
             } else {
-                // Otherwise, add the current character to 'result'
-                result.push_back(ch);
+                // Otherwise, move the current character to the valid portion of the string
+                s[j] = s[i];
+                j++;
             }
         }
         
-        return result;  // Return the final string after removing duplicates
+        // Resize the string to the valid length
+        s.resize(j);
+        return s;
     }
 };
