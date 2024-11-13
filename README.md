@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksood2004/leetcodee/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ksood2004/leetcodee/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
