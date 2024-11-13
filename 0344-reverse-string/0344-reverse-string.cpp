@@ -1,16 +1,17 @@
 class Solution {
 public:
-void rev(vector<char>& s,int i,int j){
-        if(i>=j){
-            return ;
+void rev(vector<char>& s,int i,int n){
+        if(i>= n/2){
+            return;
         }
-        swap(s[i],s[j]);
+        swap(s[i],s[n-i-1]);
+	
 
-        rev(s,i+1,j-1);
+        rev(s,i+1,n);
 
 }
     void reverseString(vector<char>& s) {
-        rev(s,0,s.size()-1);
+        rev(s,0,s.size());
         
     }
 };
