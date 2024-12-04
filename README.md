@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ksood2004/leetcodee/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Memoization
