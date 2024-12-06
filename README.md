@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ksood2004/leetcodee/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
