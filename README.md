@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
