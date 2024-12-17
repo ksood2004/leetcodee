@@ -2,34 +2,36 @@ class Solution {
 public:
     
 string minWindow(string s, string t) {
-        unordered_map<char, int> mp; // To store frequency of characters in t
-        for (char ch : t) mp[ch]++;  // Populate the map with t's characters
-
-        int i = 0, j = 0;            // Two pointers for the sliding window
-        int minLen = INT_MAX, start = 0; // To store the minimum length and start of the result
-        int count = t.size();        // Total characters we need to match
-
-        while (j < s.size()) {
-            // Decrease count if s[j] is part of t and needed
-            if (mp[s[j]] > 0) count--;
-            mp[s[j]]--;  // Reduce the frequency of current character
-            j++;
-
-            // When all characters are matched
-            while (count == 0) {
-                // Update minimum window length
-                if (j - i < minLen) {
-                    minLen = j - i;
-                    start = i;
-                }
-                // Move the left pointer to minimize the window
-                mp[s[i]]++;
-                if (mp[s[i]] > 0) count++;
-                i++;
-            }
+        unordered_map<char, int> mp;
+        int minlen=INT_MAX, start=0;
+        for(auto ch:t){
+            mp[ch]++;
         }
-
-        return (minLen == INT_MAX) ? "" : s.substr(start, minLen);
+        int i=0,j=0,count=mp.size();
+        while(j<s.length()){
+            if(mp.find(s[j])!=mp.end()){
+                mp[s[j]]--;
+                if(mp[s[j]]==0)
+                    count--;
+            }
+            if(count==0){
+                while(count==0){
+                    if(mp.find(s[i])!=mp.end()){
+                        mp[s[i]]++;
+                        if(mp[s[i]]==1) {
+                            count++;
+                            if(j-i+1<minlen){
+                                minlen=j-i+1;
+                                start=i;
+                            }
+                        }
+                    }
+                    i++;
+                }  
+            }
+            j++;
+        }
+        if(minlen==INT_MAX) return "";
+        return s.substr(start, minlen);
     }
-
 };
