@@ -1,30 +1,29 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> frequencyMap;
-        // Count the frequency of each number
+        unordered_map<int, int> myMap;
         for (int num : nums) {
-            frequencyMap[num]++;
+            myMap[num]++;
         }
-
-        // Min-heap to store pairs (frequency, number)
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
-
-        // Iterate through the frequency map
-        for (auto it = frequencyMap.begin(); it != frequencyMap.end(); ++it) {
-            minHeap.push({it->second, it->first}); // Push frequency and number
-            if (minHeap.size() > k) {
-                minHeap.pop(); // Maintain the size of the heap as k
+        priority_queue<pair<int, int>, vector<pair<int, int>>,    greater<pair<int, int>>> karan;
+ 
+        vector<int> prem;
+        int n=nums.size();
+        for (auto it = myMap.begin(); it != myMap.end(); ++it){
+            karan.push({it->second,it->first});
+            if(karan.size()>k){
+                karan.pop();
             }
-        }
 
-        // Extract the top K elements from the heap
-        vector<int> result;
-        while (!minHeap.empty()) {
-            result.push_back(minHeap.top().second); // Get the number
-            minHeap.pop();
         }
-
-        return result; // Return the top K frequent elements
+        while(!karan.empty()){
+            prem.push_back(karan.top().second);
+            karan.pop();
+        }
+        
+        return prem;
+        
     }
+        
+    
 };
