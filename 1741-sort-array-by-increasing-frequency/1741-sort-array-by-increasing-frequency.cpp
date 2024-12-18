@@ -1,43 +1,38 @@
 #include <vector>
 #include <unordered_map>
-#include <queue>
 #include <algorithm>
 using namespace std;
 
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
-        // Step 1: Count the frequency of each element
+        // Step 1: Build frequency map
         unordered_map<int, int> freqMap;
         for (int num : nums) {
             freqMap[num]++;
         }
-
-        // Step 2: Use a priority queue (max-heap) to order by frequency
-        // and in case of ties, order by value in decreasing order.
-        priority_queue<pair<int, int>> maxHeap;
-
-        // Insert all elements into the max-heap
-        for (auto& entry : freqMap) {
-            // We negate the frequency to use the max-heap for sorting by frequency in ascending order
-            maxHeap.push({-entry.second, entry.first}); // {neg_freq, value}
-        }
-
-        // Step 3: Rebuild the result array
-        vector<int> result;
         
-        // Pop elements from the heap and add them to the result array
-        while (!maxHeap.empty()) {
-            int freq = -maxHeap.top().first;  // Frequency (negated to get the original value)
-            int value = maxHeap.top().second; // Value
-            maxHeap.pop();
-            
-            // Add the current value `freq` times to the result array
-            for (int i = 0; i < freq; ++i) {
-                result.push_back(value);
-            }
+        // Step 2: Convert the map to a vector of pairs (frequency, number)
+        vector<pair<int, int>> freqVec;
+        for (auto& entry : freqMap) {
+            freqVec.push_back({entry.second, entry.first});
         }
-
+        
+        // Step 3: Sort the vector first by frequency (increasing), 
+        // then by value (decreasing) in case of ties.
+        sort(freqVec.begin(), freqVec.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
+            if (a.first == b.first) {
+                return a.second > b.second;  // Sort by value in decreasing order if frequencies are equal
+            }
+            return a.first < b.first;  // Sort by frequency in increasing order
+        });
+        
+        // Step 4: Rebuild the sorted array
+        vector<int> result;
+        for (auto& entry : freqVec) {
+            result.insert(result.end(), entry.first, entry.second);  // Add `entry.first` copies of `entry.second`
+        }
+        
         return result;
     }
 };
