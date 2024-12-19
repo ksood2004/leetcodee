@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ksood2004/leetcodee/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ksood2004/leetcodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ksood2004/leetcodee/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ksood2004/leetcodee/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksood2004/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ksood2004/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/ksood2004/leetcodee/tree/master/0347-top-k-frequent-elements) |
