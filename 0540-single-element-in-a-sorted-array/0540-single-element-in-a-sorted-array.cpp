@@ -1,21 +1,17 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        unordered_map<int,int> karan;
-        for(int i=0;i<nums.size();i++){
-            karan[nums[i]]++;
+       int s=0;
+       int e=nums.size()-1;
+       while(s<e){
+        int mid=s+(e-s)/2;
+        if((mid%2==0 && nums[mid]==nums[mid+1])  || (mid%2==1 && nums[mid]==nums[mid-1])){
+            s=mid+1;
         }
-        int prem=-1;;
-
-        for(auto it=karan.begin();it!=karan.end();it++){
-            int key=it->first;
-            int value=it->second;
-            if(value==1){
-                prem=key;
-
-            }
+        else{
+            e=mid;
         }
-        return prem;
-        
+       }
+       return nums[s];
     }
 };
