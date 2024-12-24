@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ksood2004/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ksood2004/leetcodee/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ksood2004/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ksood2004/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ksood2004/leetcodee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ksood2004/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ksood2004/leetcodee/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ksood2004/leetcodee/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ksood2004/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
