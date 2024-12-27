@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ksood2004/leetcodee/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
