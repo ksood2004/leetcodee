@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
+| [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ksood2004/leetcodee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ksood2004/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
