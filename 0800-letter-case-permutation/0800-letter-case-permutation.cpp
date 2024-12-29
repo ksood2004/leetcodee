@@ -12,7 +12,7 @@ public:
             string op2 = op;
             op1.push_back(tolower(ip[0]));//lower character
             op2.push_back(toupper(ip[0])); // upper character
-            ip.erase(ip.begin());
+            ip.erase(ip.begin()+0);
             solve(ip, op1, result);
             solve(ip, op2, result);
         } else {
