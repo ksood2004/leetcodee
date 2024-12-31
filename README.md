@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ksood2004/leetcodee/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ksood2004/leetcodee/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ksood2004/leetcodee/tree/master/0069-sqrtx) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ksood2004/leetcodee/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ksood2004/leetcodee/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
