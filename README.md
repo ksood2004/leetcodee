@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksood2004/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ksood2004/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ksood2004/leetcodee/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ksood2004/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ksood2004/leetcodee/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 ## Hash Table
 |  |
