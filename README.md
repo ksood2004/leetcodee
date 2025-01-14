@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ksood2004/leetcodee/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ksood2004/leetcodee/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
