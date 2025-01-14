@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ksood2004/leetcodee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ksood2004/leetcodee/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ksood2004/leetcodee/tree/master/1170-shortest-common-supersequence) |
