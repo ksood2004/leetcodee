@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
+| [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ksood2004/leetcodee/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ksood2004/leetcodee/tree/master/1250-longest-common-subsequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ksood2004/leetcodee/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
+| [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 ## Matrix
 |  |
 | ------- |
