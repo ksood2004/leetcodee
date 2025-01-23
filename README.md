@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
