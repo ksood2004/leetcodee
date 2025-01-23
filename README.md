@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
 | ------- |
@@ -325,9 +326,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
