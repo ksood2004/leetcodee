@@ -1,25 +1,28 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    int karan(TreeNode* root, int& res) {
-        if (root == NULL) {
-            return 0; // Base case: null nodes contribute 0 to the path sum
-        }
-        
-        // Recursive calls for left and right children
-        int l = max(0, karan(root->left, res));  // Max with 0 to ignore negative paths
-        int r = max(0, karan(root->right, res)); // Max with 0 to ignore negative paths
-
-        // Calculate maximum path sum passing through the current node
-        int temp = max(l + root->val, r + root->val); // Max single-branch sum
-        int ans = max(temp, l + r + root->val); // Max including both branches
-        res = max(res, ans); // Update the global result
-
-        return temp; // Return the max single-branch sum to parent
+int sum(TreeNode* root,int & karan){
+    if(root==NULL){
+        return 0;
     }
-
+    int l=max(0,sum(root->left,karan));
+    int r=max(0,sum(root->right,karan));
+    karan=max(karan,l+r+root->val);
+    return root->val+max(l,r);
+}
     int maxPathSum(TreeNode* root) {
-        int res = INT_MIN; // Initialize global maximum with smallest value
-        karan(root, res);
-        return res;
+        int karan=INT_MIN;
+        sum(root,karan);
+        return karan;
     }
 };
