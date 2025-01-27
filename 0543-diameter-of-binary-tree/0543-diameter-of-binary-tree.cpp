@@ -11,20 +11,18 @@
  */
 class Solution {
 public:
-int karan(TreeNode* root,int &res){
-     if(root==NULL){
-            return 0;
-        }
-        int l=karan(root->left,res);
-        int r=karan(root->right,res);
-        res=max(res,l+r);
-        return max(l,r)+1;
+int karan(TreeNode* root,int& hello ){
+    if(root==NULL){
+        return 0;
+    }
+    int l=karan(root->left,hello);
+    int r=karan(root->right,hello);
+    hello=max(hello,l+r);
+    return 1+max(l,r);
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        int res=INT_MIN;
-        karan(root,res);
-        return res;
-       
-        
+        int hello=INT_MIN;
+        karan(root,hello);
+        return hello;
     }
 };
