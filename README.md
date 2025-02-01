@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ksood2004/leetcodee/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ksood2004/leetcodee/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 ## Hash Table
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ksood2004/leetcodee/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ksood2004/leetcodee/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ksood2004/leetcodee/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
 ## Union Find
 |  |
