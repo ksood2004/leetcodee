@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ksood2004/leetcodee/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ksood2004/leetcodee/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ksood2004/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ksood2004/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ksood2004/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ksood2004/leetcodee/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ksood2004/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ksood2004/leetcodee/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ksood2004/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0543-diameter-of-binary-tree) |
