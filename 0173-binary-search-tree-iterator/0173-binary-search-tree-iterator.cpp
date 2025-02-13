@@ -11,7 +11,7 @@
 // };
 
 class BSTIterator {
-private:
+public:
     stack<TreeNode*> st;
 
     // Helper function to push all left nodes to the stack
