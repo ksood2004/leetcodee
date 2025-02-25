@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksood2004/leetcodee/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ksood2004/leetcodee/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ksood2004/leetcodee/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ksood2004/leetcodee/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ksood2004/leetcodee/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ksood2004/leetcodee/tree/master/0237-delete-node-in-a-linked-list) |
 ## Trie
 |  |
