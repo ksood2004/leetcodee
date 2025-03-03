@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ksood2004/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ksood2004/leetcodee/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ksood2004/leetcodee/tree/master/0162-find-peak-element) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ksood2004/leetcodee/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ksood2004/leetcodee/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ksood2004/leetcodee/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ksood2004/leetcodee/tree/master/0268-missing-number) |
