@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ksood2004/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
