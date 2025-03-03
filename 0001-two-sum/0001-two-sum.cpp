@@ -5,11 +5,12 @@ public:
         unordered_map<int,int> karan;
         for(int i=0;i<n;i++){
             int k=target-nums[i];
-            if(karan.find(k) != karan.end()){
+            if(karan.find(k)!=karan.end()){
                 return {karan[k],i};
             }
-        karan[nums[i]]=i;
+            karan[nums[i]]=i;
+
         }
-        return {};
+    return {};  
     }
 };
