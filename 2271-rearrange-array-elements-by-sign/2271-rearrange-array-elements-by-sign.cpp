@@ -13,7 +13,7 @@ public:
         }
         int i=0;
         int j=0;
-        while(i<pos.size()){
+        while(i<neg.size()){
             ans.push_back(pos[i]);
             i++;
             ans.push_back(neg[j]);
