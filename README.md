@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ksood2004/leetcodee/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksood2004/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ksood2004/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ksood2004/leetcodee/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksood2004/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ksood2004/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/ksood2004/leetcodee/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ksood2004/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ksood2004/leetcodee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ksood2004/leetcodee/tree/master/0142-linked-list-cycle-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ksood2004/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ksood2004/leetcodee/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
