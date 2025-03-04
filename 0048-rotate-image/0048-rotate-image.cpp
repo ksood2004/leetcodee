@@ -15,8 +15,6 @@ void reverseRows(vector<vector<int>>& matrix) {
     }
 }
 
-// Function to reverse each row
-
     void rotate(vector<vector<int>>& matrix) {
         transpose(matrix);
 
