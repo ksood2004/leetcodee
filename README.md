@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 ## Matrix
 |  |
