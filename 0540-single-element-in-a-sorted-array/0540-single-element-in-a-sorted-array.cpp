@@ -1,17 +1,19 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-       int s=0;
-       int e=nums.size()-1;
-       while(s<e){
-        int mid=s+(e-s)/2;
-        if((mid%2==0 && nums[mid]==nums[mid+1])  || (mid%2==1 && nums[mid]==nums[mid-1])){
-            s=mid+1;
+        int n=nums.size();
+        map<int,int> mpp;
+        for(int i=0;i<n;i++){
+            mpp[nums[i]]++;
         }
-        else{
-            e=mid;
+        int ans=-1;
+        for(auto it=mpp.begin();it!=mpp.end();it++){
+            int key=it->first;
+            int value=it->second;
+            if(value==1){
+                ans=key;
+            }
         }
-       }
-       return nums[s];
+    return ans;    
     }
 };
