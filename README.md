@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/ksood2004/leetcodee/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ksood2004/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
