@@ -11,21 +11,20 @@ public:
 
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
-        int s = 1; // Start from 1, not 0 (avoid division by zero)
+        int s = 1; 
         int e = *max_element(nums.begin(), nums.end());
         int ans = e;
 
         while (s <= e) {
-            int mid = s + (e - s) / 2;
-            int midn = small(nums, mid); // Correct function call
-
-            if (midn > threshold) {
-                s = mid + 1; 
-            } else {
-                ans = mid; 
-                e = mid - 1;
-            }
+            int mid=s+(e-s)/2;
+            int midn=small(nums,mid);
+            if (midn<=threshold) {
+            e = mid - 1;
         }
-        return ans;
+        else {
+            s = mid + 1;
+        }
+    }
+    return s;
     }
 };
