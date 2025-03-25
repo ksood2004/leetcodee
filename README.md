@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ksood2004/leetcodee/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ksood2004/leetcodee/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/ksood2004/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ksood2004/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ksood2004/leetcodee/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ksood2004/leetcodee/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/ksood2004/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ksood2004/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
