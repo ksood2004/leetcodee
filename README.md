@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ksood2004/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ksood2004/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ksood2004/leetcodee/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ksood2004/leetcodee/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ksood2004/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ksood2004/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ksood2004/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ksood2004/leetcodee/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ksood2004/leetcodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ksood2004/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ksood2004/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ksood2004/leetcodee/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ksood2004/leetcodee/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
