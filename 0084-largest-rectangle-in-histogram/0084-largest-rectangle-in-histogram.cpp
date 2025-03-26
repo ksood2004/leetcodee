@@ -1,58 +1,60 @@
 class Solution {
 public:
- vector<int> findNearestSmallerToLeft(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> prem;  // To store nearest smaller to left 
-        stack<pair<int, int>> karan;   // Stack for left smaller
+    int largestRectangleArea(vector<int>& heights) { 
+     int n = heights.size();
+        vector<int> karan;  // For NSL 
+        vector<int> aaryan; // For NSR 
+        stack<pair<int, int>> s1;        
+        stack<pair<int, int>> s2;
 
         for (int i = 0; i < n; i++) {
-            while (!karan.empty() && karan.top().first >= heights[i]) {
-                karan.pop();
+            if (s1.empty()) {
+                karan.push_back(-1);
             }
-            if (karan.empty()) {
-                prem.push_back(-1);
-            } else {
-                prem.push_back(karan.top().second);
+            else if (s1.size() > 0 && s1.top().first < heights[i]) {
+                karan.push_back(s1.top().second);
             }
-            karan.push({heights[i], i});
+            else if (s1.size() > 0 && s1.top().first >= heights[i]) {
+                while (s1.size() > 0 && s1.top().first >= heights[i]) {
+                    s1.pop();
+                }
+                if (s1.size() == 0) {
+                    karan.push_back(-1);
+                }
+                else {
+                    karan.push_back(s1.top().second);
+                }
+            }
+            s1.push({heights[i], i});
         }
-
-        return prem;
-    }
-
-    vector<int> findNearestSmallerToRight(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> neha;  // To store nearest smaller to right 
-        stack<pair<int, int>> aaryan; // Stack for right smaller
-
         for (int i = n - 1; i >= 0; i--) {
-            while (!aaryan.empty() && aaryan.top().first >= heights[i]) {
-                aaryan.pop();
+            if (s2.empty()) {
+                aaryan.push_back(n);
             }
-            if (aaryan.empty()) {
-                neha.push_back(n); // Push `n` when no smaller element is found
-            } else {
-                neha.push_back(aaryan.top().second);
+            else if (s2.size() > 0 && s2.top().first < heights[i]) {
+                aaryan.push_back(s2.top().second);
             }
-            aaryan.push({heights[i], i});
+            else if (s2.size() > 0 && s2.top().first >= heights[i]) {
+                while (s2.size() > 0 && s2.top().first >= heights[i]) {
+                    s2.pop();
+                }
+                if (s2.size() == 0) {
+                    aaryan.push_back(n);
+                }
+                else {
+                    aaryan.push_back(s2.top().second);
+                }
+            }
+            s2.push({heights[i], i});
+        }
+        reverse(aaryan.begin(), aaryan.end());
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            int width = aaryan[i] - karan[i] - 1;
+            int curr_area = width * heights[i];
+            ans = max(ans, curr_area);
         }
 
-        reverse(neha.begin(), neha.end());
-        return neha;
-    }
-
-    int largestRectangleArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> prem = findNearestSmallerToLeft(heights);
-        vector<int> neha = findNearestSmallerToRight(heights);
-
-        int maxArea = 0;
-        for (int i = 0; i < n; ++i) {
-            int width = neha[i] - prem[i] - 1;  // Width of the rectangle
-            int area = heights[i] * width;     // Area = height * width
-            maxArea = max(maxArea, area);      // Update maximum area
-        }
-
-        return maxArea;
+        return ans;
     }
 };
