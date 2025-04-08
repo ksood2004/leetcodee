@@ -1,35 +1,29 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if (head == nullptr || head->next == nullptr) {
-            return nullptr; // No cycle possible
-        }
+        if (head == NULL || head->next == NULL)
+            return NULL;
 
         ListNode* slow = head;
         ListNode* fast = head;
-
-        // Step 1: Detect cycle using slow & fast pointers
-        while (fast != nullptr && fast->next != nullptr) {
+        while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
-            fast = fast->next->next; // Fix: Move fast by two steps
+            fast = fast->next->next;
 
-            if (slow == fast) { // Cycle detected
+            if (slow == fast) {
+          
                 break;
             }
         }
+        if (fast == NULL || fast->next == NULL)
+            return NULL;
 
-        // Step 2: If no cycle was found
-        if (fast == nullptr || fast->next == nullptr) {
-            return nullptr; // No cycle
-        }
-
-        // Step 3: Find the start of the cycle
-        slow = head; // Move fast to head
-        while (fast != slow) {
-            fast = fast->next;
+        slow = head;
+        while (slow != fast) {
             slow = slow->next;
+            fast = fast->next;
         }
 
-        return slow; // Start of the cycle
+        return slow;
     }
 };
