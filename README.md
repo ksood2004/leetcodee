@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
@@ -566,5 +567,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ksood2004/leetcodee/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ksood2004/leetcodee/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ksood2004/leetcodee/tree/master/3231-minimum-number-of-coins-to-be-added) |
 <!---LeetCode Topics End-->
