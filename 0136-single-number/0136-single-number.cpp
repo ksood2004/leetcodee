@@ -1,19 +1,11 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> karan;
-        for(int i=0;i<nums.size();i++){
-            karan[nums[i]]++;
+        int number=0,n=nums.size();
+        for(int i=0;i<n;i++)
+        {
+            number=number^nums[i];
         }
-        vector<int> hello;
-        for(auto it: karan){
-            int key=it.first;
-            int value=it.second;
-            if(value==1){
-                return key;
-            }
-        }
-        return -1;
-        
+        return number;
     }
 };
