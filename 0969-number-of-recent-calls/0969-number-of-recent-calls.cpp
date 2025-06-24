@@ -1,7 +1,9 @@
 class RecentCounter {
-  public:
+  private:
+
 vector<int> s;
 int hi;
+public:
     RecentCounter() {
         hi=0;
     }
