@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ksood2004/leetcodee/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ksood2004/leetcodee/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ksood2004/leetcodee/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ksood2004/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ksood2004/leetcodee/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ksood2004/leetcodee/tree/master/0078-subsets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ksood2004/leetcodee/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ksood2004/leetcodee/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ksood2004/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ksood2004/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ksood2004/leetcodee/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksood2004/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ksood2004/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ksood2004/leetcodee/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ksood2004/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ksood2004/leetcodee/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ksood2004/leetcodee/tree/master/0128-longest-consecutive-sequence) |
