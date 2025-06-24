@@ -2,7 +2,9 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         int n=nums.size();
-        
+        if(n==0){
+            return 0;
+        }
         int maxx=1;
         int ans=1;
         sort(nums.begin(),nums.end());
@@ -10,7 +12,7 @@ public:
             if(abs(nums[i]-nums[i-1])==1){
                 maxx++;
             }
-            else if(abs(nums[i]-nums[i-1])==0){
+            else if(nums[i]-nums[i-1]==0){
 
             }
             else{
