@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ksood2004/leetcodee/tree/master/1056-capacity-to-ship-packages-within-d-days) |
