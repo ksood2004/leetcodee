@@ -3,7 +3,8 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> karan;
         int n=nums.size();
-        unordered_map<int,int> hi;
+        sort(nums.begin(),nums.end());
+        map<int,int> hi;
         for(int i=0;i<n;i++){
             hi[nums[i]]++;
         }
