@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ksood2004/leetcodee/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ksood2004/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/ksood2004/leetcodee/tree/master/1127-last-stone-weight) |
+| [1185-find-in-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/1185-find-in-mountain-array) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ksood2004/leetcodee/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ksood2004/leetcodee/tree/master/1646-kth-missing-positive-number) |
@@ -621,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ksood2004/leetcodee/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ksood2004/leetcodee/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ksood2004/leetcodee/tree/master/0820-find-eventual-safe-states) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
