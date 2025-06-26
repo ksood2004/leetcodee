@@ -6,13 +6,22 @@ public:
             freq[num]++;
         }
 
-        sort(nums.begin(), nums.end(), [&](int a, int b) {
-            if (freq[a] == freq[b]) {
-                return a > b;
-            }
-            return freq[a] < freq[b];
-        });
+        // Min heap with tie-breaker: bigger number first if frequency same
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        for (auto& it : freq) {
+            pq.push({it.second, -it.first});  // store -num for tie-breaking
+        }
 
-        return nums;
+        vector<int> result;
+        while (!pq.empty()) {
+            int count = pq.top().first;
+            int num = -pq.top().second;  // restore original number
+            pq.pop();
+            for (int i = 0; i < count; i++) {
+                result.push_back(num);
+            }
+        }
+
+        return result;
     }
 };
