@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ksood2004/leetcodee/tree/master/0907-koko-eating-bananas) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ksood2004/leetcodee/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ksood2004/leetcodee/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
+| [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ksood2004/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ksood2004/leetcodee/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ksood2004/leetcodee/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ksood2004/leetcodee/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/ksood2004/leetcodee/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ksood2004/leetcodee/tree/master/0455-assign-cookies) |
+| [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ksood2004/leetcodee/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Topological Sort
