@@ -4,8 +4,8 @@ public:
         int n=nums.size();
         int s=0;
         int e=n-1;
-        int mid=s+(e-s)/2;
         while(s<=e){
+            int mid=s+(e-s)/2;
             if(nums[mid]==target){
                 return mid;
             }
@@ -15,8 +15,8 @@ public:
             else{
                 e=mid-1;
             }
-            mid=s+(e-s)/2;
         }
-       return -1; 
+return -1;
+        
     }
 };
