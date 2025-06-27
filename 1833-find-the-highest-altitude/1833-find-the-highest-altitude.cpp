@@ -1,13 +1,17 @@
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
-        int curr=0;
-        int sum=0;
-        for(int i=0;i<gain.size();i++){
-            sum+=gain[i];
-            curr=max(curr,sum);
+        int max = 0;
+        int height = 0;  // Moved outside the loop
+
+        for (int i = 0; i < gain.size(); i++) {
+            height += gain[i];  // Keep adding gain to total height
+
+            if (height > max) {
+                max = height;
+            }
         }
-        return curr;
-        
+
+        return max;
     }
 };
