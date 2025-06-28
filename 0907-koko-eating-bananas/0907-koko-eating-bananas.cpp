@@ -6,7 +6,7 @@ public:
             int mid=(l+r)/2;
             long long th=0;
             for(int p:piles){
-                th += (p+mid-1LL)/mid;
+                th += ceil((double) p/mid);
             }
             if(th<=h){
                 res=mid;
