@@ -1,42 +1,18 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> merged;
-
-        // Merging both arrays
-        merged.insert(merged.end(), nums1.begin(), nums1.end());
-        merged.insert(merged.end(), nums2.begin(), nums2.end());
-
-        // Sorting merged array
-        sort(merged.begin(), merged.end());
-
-        int size = merged.size();
-        if (size % 2 == 0) {
-            return (merged[size / 2] + merged[(size / 2) - 1]) / 2.0; // Corrected median calculation
-        } else {
-            return merged[size / 2];
+        int n=nums1.size();
+        int m=nums2.size();
+        int k=n+m;
+        vector<int> nums3(k);
+        nums3.insert(nums1.begin(),nums1.end(),nums3.begin());
+        nums3.insert(nums2.begin(),nums2.end(),nums3.begin());
+        if(k%2==0){
+            return (nums3[k/2]-1)/2.0;
         }
+        else{
+            return (nums3[n/2]);
+        }
+
     }
 };
-
-// int main() {
-//     int n, m;
-//     cin >> n >> m;
-
-//     vector<int> nums1(n), nums2(m);
-
-//     for (int i = 0; i < n; i++) {
-//         cin >> nums1[i];
-//     }
-//     for (int i = 0; i < m; i++) {
-//         cin >> nums2[i];
-//     }
-
-//     Solution solution;
-//     cout << fixed << setprecision(5) << solution.findMedianSortedArrays(nums1, nums2) << endl;
-
-//     return 0;
-// }
