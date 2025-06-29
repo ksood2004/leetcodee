@@ -11,7 +11,7 @@ public:
             return (nums3[k/2]+nums3[(k/2)-1])/2.0;
         }
         else{
-            return nums3[(k/2)];
+            return nums3[k/2];
         }
 
     }
