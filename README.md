@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/ksood2004/leetcodee/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ksood2004/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2047-find-a-peak-element-ii](https://github.com/ksood2004/leetcodee/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksood2004/leetcodee/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksood2004/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/ksood2004/leetcodee/tree/master/2737-row-with-maximum-ones) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ksood2004/leetcodee/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/ksood2004/leetcodee/tree/master/2047-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ksood2004/leetcodee/tree/master/1073-number-of-enclaves) |
+| [2047-find-a-peak-element-ii](https://github.com/ksood2004/leetcodee/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/ksood2004/leetcodee/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
