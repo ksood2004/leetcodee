@@ -5,8 +5,9 @@ public:
         int m=matrix[0].size();
         int s=0;
         int e=n*m-1;
-        while(s<e){
-            int mid=s+(e-s)/2;
+        int mid=s+(e-s)/2;
+        while(s<=e){
+            
             int ele=matrix[mid/m][mid%m];
             if(ele==target){
                 return true;
