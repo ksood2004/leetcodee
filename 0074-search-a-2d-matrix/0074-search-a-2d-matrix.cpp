@@ -18,6 +18,7 @@ public:
             else{
                 s=mid+1;
             }
+            mid=s+(e-s)/2;
         }
         return false;
     }
