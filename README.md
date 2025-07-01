@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ksood2004/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksood2004/leetcodee/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksood2004/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/ksood2004/leetcodee/tree/master/2737-row-with-maximum-ones) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ksood2004/leetcodee/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Divide and Conquer
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ksood2004/leetcodee/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ksood2004/leetcodee/tree/master/1073-number-of-enclaves) |
+| [2737-row-with-maximum-ones](https://github.com/ksood2004/leetcodee/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
