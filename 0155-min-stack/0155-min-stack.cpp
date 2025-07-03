@@ -1,36 +1,32 @@
-#include <stack>
-using namespace std;
-
 class MinStack {
 public:
-    stack<int> s;  // Main stack to store all elements
-    stack<int> ss; // Auxiliary stack to store minimum elements
+    stack<int> s;
+    stack<int> ss;
 
-    MinStack() { }
+    MinStack() {}
 
     void push(int val) {
-        s.push(val); // Always push to the main stack
-        // Push to the auxiliary stack if it's empty or `val` is less than or equal to the current minimum
+        s.push(val);
         if (ss.empty() || val <= ss.top()) {
             ss.push(val);
         }
     }
 
     void pop() {
-        if (s.empty()) return; // If main stack is empty, do nothing
+        if (s.empty()) return;
         if (s.top() == ss.top()) {
-            ss.pop(); // Pop from auxiliary stack if the top matches
+            ss.pop();
         }
-        s.pop(); // Always pop from the main stack
+        s.pop();
     }
 
     int top() {
-        if (s.empty()) return -1; // Return -1 if stack is empty
-        return s.top(); // Return the top element of the main stack
+        if (s.empty()) return -1; // Optional safety check
+        return s.top();
     }
 
     int getMin() {
-        if (ss.empty()) return -1; // Return -1 if no minimum exists
-        return ss.top(); // Return the top element of the auxiliary stack
+        if (ss.empty()) return -1; // Optional: define behavior for empty stack
+        return ss.top();
     }
 };
