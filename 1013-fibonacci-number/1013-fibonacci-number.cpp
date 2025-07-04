@@ -1,22 +1,16 @@
 class Solution {
 public:
+int t[31];
+int karan(int n){
+    t[0]=0;
+    t[1]=1;
+    for(int i=2;i<=n;i++){
+        t[i]=t[i-1]+t[i-2];
+    }
+    return t[n];
+}
     int fib(int n) {
-        if(n==0){
-            return 0;
-        }
-        if(n==1){
-            return 1;
-        }
-        int num1=0;
-        int temp;
-        int num2=1;
-        for(int i=2;i<=n;i++){
-            temp=num2+num1;
-            num1=num2;
-            num2=temp;
-        }
-
-        return num2;
-        
+        memset(t,0,sizeof(t));
+        return karan(n);
     }
 };
