@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ksood2004/leetcodee/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ksood2004/leetcodee/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ksood2004/leetcodee/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
+| [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/ksood2004/leetcodee/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ksood2004/leetcodee/tree/master/1170-shortest-common-supersequence) |
