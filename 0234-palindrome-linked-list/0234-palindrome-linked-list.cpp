@@ -27,8 +27,8 @@ ListNode* reversee(ListNode* head){
     return prev;
 }
     bool isPalindrome(ListNode* head) {
-        if(head==NULL){
-            return false;
+        if(head==NULL || head->next==NULL){
+            return true;
         }
         ListNode* fast=head;
         ListNode* slow=head;
@@ -40,7 +40,7 @@ ListNode* reversee(ListNode* head){
         ListNode* firsthalf=head;
         ListNode* temp=secondhalf;
         while(temp!=NULL){
-            if(head->val!=temp->val){
+            if(firsthalf->val!=temp->val){
                 return false;
             }
             firsthalf=firsthalf->next;
