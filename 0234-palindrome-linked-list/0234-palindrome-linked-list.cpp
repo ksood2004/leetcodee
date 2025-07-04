@@ -1,41 +1,53 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* reversee(ListNode* head) {
-        if (head == nullptr) {
-            return nullptr;
-        }
-        ListNode* prev = nullptr;
-        ListNode* temp = head;
-        while (temp != nullptr) { 
-            ListNode* front = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-        }
-        return prev; 
+ListNode* reversee(ListNode* head){
+    if(head==NULL){
+        return NULL;
     }
-    // Function to check if the linked list is a palindrome
-    bool isPalindrome(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) {
-            return true; 
-        }
-        ListNode* slow = head;
-        ListNode* fast = head;
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        ListNode* secondHalf = reversee(slow);
-        ListNode* firstHalf = head;
-        ListNode* temp = secondHalf;
-        while (temp != nullptr) {
-            if (firstHalf->val != temp->val) {
-                return false;  
-            }
-            firstHalf = firstHalf->next;
-            temp = temp->next;
-        }
 
-        return true;  
+    ListNode* prev=NULL;
+    ListNode* temp=head;
+
+    while(temp!=NULL){
+        ListNode* front=temp->next;
+        temp->next=prev;
+        prev=temp;
+        temp=front;
+    }
+    return prev;
+}
+    bool isPalindrome(ListNode* head) {
+        if(head==NULL){
+            return false;
+        }
+        ListNode* fast=head;
+        ListNode* slow=head;
+        while(fast!=NULL && fast->next!=NULL){
+            fast=fast->next->next;
+            slow=slow->next;
+        }
+        ListNode* secondhalf=reversee(slow);
+        ListNode* firsthalf=head;
+        ListNode* temp=secondhalf;
+        while(temp!=NULL){
+            if(head->val!=temp->val){
+                return false;
+            }
+            firsthalf=firsthalf->next;
+            temp=temp->next;
+        }
+        return true;
+
+
     }
 };
