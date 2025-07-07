@@ -2,7 +2,7 @@ class Solution {
 public:
     int hello(vector<int>& coins, int sum, int n) {
         // Use long long to prevent overflow
-        unsigned long long t[n + 1][sum + 1];
+          unsigned long long  t[n + 1][sum + 1];
 
         // Initialize the DP table
         for (int i = 0; i <= n; i++) {
