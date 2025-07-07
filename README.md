@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ksood2004/leetcodee/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksood2004/leetcodee/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ksood2004/leetcodee/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ksood2004/leetcodee/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/ksood2004/leetcodee/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ksood2004/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ksood2004/leetcodee/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ksood2004/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ksood2004/leetcodee/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ksood2004/leetcodee/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ksood2004/leetcodee/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ksood2004/leetcodee/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/ksood2004/leetcodee/tree/master/1217-relative-sort-array) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/ksood2004/leetcodee/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ksood2004/leetcodee/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ksood2004/leetcodee/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Heap (Priority Queue)
