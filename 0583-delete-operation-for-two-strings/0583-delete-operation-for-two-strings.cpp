@@ -1,6 +1,6 @@
 class Solution {
 public:
-int karan(string& s1, string& s2,int n,int m){
+   int karan(string& s1, string& s2,int n,int m){
         int t[n+1][m+1];
         
         for(int i=0;i<=n;i++){
