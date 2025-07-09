@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ksood2004/leetcodee/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ksood2004/leetcodee/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ksood2004/leetcodee/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ksood2004/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ksood2004/leetcodee/tree/master/0349-intersection-of-two-arrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ksood2004/leetcodee/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ksood2004/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ksood2004/leetcodee/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ksood2004/leetcodee/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ksood2004/leetcodee/tree/master/0410-split-array-largest-sum) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ksood2004/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ksood2004/leetcodee/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ksood2004/leetcodee/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ksood2004/leetcodee/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ksood2004/leetcodee/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
