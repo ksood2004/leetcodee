@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ksood2004/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ksood2004/leetcodee/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ksood2004/leetcodee/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/ksood2004/leetcodee/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ksood2004/leetcodee/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ksood2004/leetcodee/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ksood2004/leetcodee/tree/master/0131-palindrome-partitioning) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ksood2004/leetcodee/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ksood2004/leetcodee/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ksood2004/leetcodee/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ksood2004/leetcodee/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksood2004/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ksood2004/leetcodee/tree/master/0124-binary-tree-maximum-path-sum) |
