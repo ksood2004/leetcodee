@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ksood2004/leetcodee/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ksood2004/leetcodee/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ksood2004/leetcodee/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/ksood2004/leetcodee/tree/master/0943-sum-of-subarray-minimums) |
@@ -394,10 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ksood2004/leetcodee/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
