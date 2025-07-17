@@ -6,14 +6,12 @@ void solve(vector<int>& ip,vector<int> & op,int index){
     
     for(int i=index;i<ip.size();i++){
         if(i >index && ip[i]==ip[i-1]){
-            continue; // insert nhi krna element ko 
+            continue; 
         }
          op.push_back(ip[i]);
 
-        // Recur with the next index
         solve(ip, op, i + 1);
 
-        // Backtrack by removing the last element
         op.pop_back();
     }
 
