@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ksood2004/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ksood2004/leetcodee/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ksood2004/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ksood2004/leetcodee/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/ksood2004/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ksood2004/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ksood2004/leetcodee/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ksood2004/leetcodee/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ksood2004/leetcodee/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ksood2004/leetcodee/tree/master/0800-letter-case-permutation) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ksood2004/leetcodee/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
