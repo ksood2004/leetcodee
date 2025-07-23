@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ksood2004/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/ksood2004/leetcodee/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksood2004/leetcodee/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ksood2004/leetcodee/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ksood2004/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ksood2004/leetcodee/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ksood2004/leetcodee/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ksood2004/leetcodee/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksood2004/leetcodee/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ksood2004/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0923-super-egg-drop](https://github.com/ksood2004/leetcodee/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/ksood2004/leetcodee/tree/master/0943-sum-of-subarray-minimums) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ksood2004/leetcodee/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/ksood2004/leetcodee/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ksood2004/leetcodee/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ksood2004/leetcodee/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/ksood2004/leetcodee/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/ksood2004/leetcodee/tree/master/0890-lemonade-change) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ksood2004/leetcodee/tree/master/3231-minimum-number-of-coins-to-be-added) |
