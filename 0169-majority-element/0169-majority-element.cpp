@@ -11,12 +11,16 @@ public:
         for(auto& it:karan){
             int num=it.first;
             int freq=it.second;
-            if(freq>mx){
-                mx=freq;
-                ans=num;
-            }
-            
+            if(freq>ans){
+                ans=freq;
+                mx=num;
+            } 
         }
-        return ans;
+        if(ans> n/2){
+            return mx;
+        }
+        else{
+        return -1;
+        }
     }
 };
