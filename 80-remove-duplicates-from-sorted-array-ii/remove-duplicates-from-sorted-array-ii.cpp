@@ -3,18 +3,13 @@ public:
     int removeDuplicates(vector<int>& nums) {
         int n=nums.size();
         map<int,int> karan;
+        int index=0;
         for(int i=0;i<n;i++){
             karan[nums[i]]++;
-        }
-        int index=0;
-        for(auto& it: karan){
-            int val=it.first;
-            int freq=min(it.second,2);
-            for(int i=0;i<freq;i++){
-                nums[index]=val;
+            if(karan[nums[i]]<=2){
+                nums[index]=nums[i];
                 index++;
             }
-            
         }
         return index;
     }
