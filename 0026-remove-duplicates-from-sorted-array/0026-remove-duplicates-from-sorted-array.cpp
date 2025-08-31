@@ -1,26 +1,16 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        vector<int> karan;
-
-        int n = nums.size();
-        if (n == 0) {
-            return 0;
+        set<int> karan;
+        int n=nums.size();
+        int index=0;
+        for(int i=0;i<n;i++){
+            karan.insert(nums[i]);
         }
-
-        karan.push_back(nums[0]);  // include the first element
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] != nums[i - 1]) {
-                karan.push_back(nums[i]);
-            }
+        for(auto val:karan){
+            nums[index]=val;
+            index++;
         }
-
-        // Copy back to original vector (if needed)
-        for (int i = 0; i < karan.size(); i++) {
-            nums[i] = karan[i];
-        }
-
-        return karan.size();
+        return index;
     }
 };
