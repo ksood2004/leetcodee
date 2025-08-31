@@ -6,23 +6,17 @@ public:
         for(int i=0;i<n;i++){
             karan[nums[i]]++;
         }
-        int maxx=0;
-        int ele=-1;
-        for(auto& it: karan){
+        int mx=-1;
+        int ans=0;
+        for(auto& it:karan){
             int num=it.first;
             int freq=it.second;
-         
-            if(freq>maxx){
-                maxx=freq;
-                ele=num;
+            if(freq>mx){
+                mx=freq;
+                ans=num;
             }
-
+            
         }
-        if(maxx>n/2){
-        return ele;
-        }
-        else{
-            return -1;
-        }
+        return ans;
     }
 };
