@@ -3,14 +3,18 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> karan;
         int n=nums.size();
-        sort(nums.begin(),nums.end());
-        map<int,int> hi;
+        unordered_map<int,int> mp;
         for(int i=0;i<n;i++){
-            hi[nums[i]]++;
+            mp[nums[i]]++;
         }
-        for(auto& it: hi){
-            if(it.second> n/3){
-                karan.push_back(it.first);
+        int ans=0;
+        int mx=-1;
+        for(auto& it : mp){
+            int val=it.first;
+            int freq=it.second;
+            if(freq>n/3){
+              
+                karan.push_back(val);
             }
         }
         return karan;
