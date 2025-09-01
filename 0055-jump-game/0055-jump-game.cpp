@@ -2,13 +2,13 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n=nums.size();
-        int goal=n-1;
+        int step=n-1;
+        int ans=0;
         for(int i=n-2;i>=0;i--){
-            if(i+nums[i]>=goal){
-                goal=i;
+            if(step<=i+nums[i]){
+                step=i;
             }
-
         }
-      return goal==0;  
+        return step==0;
     }
 };
